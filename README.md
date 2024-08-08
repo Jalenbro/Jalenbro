@@ -28,7 +28,6 @@ I am very passionate about using my abilities to serve in a Security Analyst
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
 
@@ -47,8 +46,6 @@ I am very passionate about using my abilities to serve in a Security Analyst
   
 <img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"/>
 
-</div>
-![Chronicle](https://img.shields.io/badge/-Chronicle-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white)
 
 
 ## Projects
