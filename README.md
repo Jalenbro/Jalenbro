@@ -45,11 +45,13 @@ I am very passionate about using my abilities to serve in a Security Analyst
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
- <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white"
+ <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
   
-<img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"
+<img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"/>
+
+</div>
 
 
 ## Projects
