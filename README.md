@@ -2,17 +2,15 @@
 <a href="https://www.linkedin.com/in/jalen-b-ab9694113/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-[Brief Introduction - Remove this afterwards]
+Brief Introduction 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+As a York University graduate with a Bachelor's degree in Information Technology, I have a vast array of knowledge in the current leading practice in information security awareness and Data Loss Prevention (DLP) technologies. Specifically, I am well-versed in Linux, Python, and SQL, through various technical projects. I have also obtained the Google Cybersecurity Professional Certificate, which has provided me with hands-on experience in SIEM Tools and IDS such as Chronicle, Splunk, and Suricata.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am very passionate about using my abilities to serve in a Security Analyst 
+ team. I am driven to produce high-quality deliverables through a detail-oriented approach. I believe my dedication and strong work ethic will make me an asset to any team. I am eager to transition into this field, specifically aiming to join a (SOC) role as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
