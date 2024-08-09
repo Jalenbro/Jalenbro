@@ -14,7 +14,7 @@ I am very passionate about using my abilities to serve in a Security Analyst
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Analysing and tracing phishing emails          | <a href="https://google.com">Phishing Analysis
+| Analysing and tracing phishing emails          | <a href="https://github.com/Jalenbro/Phishing-Analysis">Phishing Analysis
 </a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
