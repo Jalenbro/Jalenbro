@@ -22,7 +22,7 @@ I am very passionate about using my abilities to serve in a Security Analyst
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
@@ -47,7 +47,3 @@ I am very passionate about using my abilities to serve in a Security Analyst
 <img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"/>
 
 
-
-## Projects
-- Detection Lab
-- SOC Automation Project
