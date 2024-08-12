@@ -40,6 +40,7 @@ What is the hostname of the attached VM?
 Ans: Linux4n6
 
 What is the timezone of the attached VM?
+
 ![Screenshot 2024-08-12 002100](https://github.com/user-attachments/assets/4d9856f7-7fbf-4776-bb03-ad9b9a762430)
 
 Ans: Linux4n6
