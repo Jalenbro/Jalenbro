@@ -20,7 +20,7 @@ I am very passionate about using my abilities to serve in a Security Analyst
 | [4](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/4%20-%20Assets%20%26%20Threats%20%26%20Vulnerabilities) - Assets, Threats, & Vulnerabilities | `Authentication`, ` Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis`|
 | [5](https://github.com/Jalenbro/Jalenbro/tree/main/IDS%26IPS) - IDS & IPS| `Incident Lifecycle`, `Incident Journal` |
 | [6](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/6%20-%20Tcpdump%20%26%20Wireshark) - Digital Forensics  | `Packet Analyzer`,`Tcpdump`, `Wireshark ` | 
-| [7](https://github.com/Jalenbro/Jalenbro/tree/main/IDS%26SIEM%20LABS) - IDS & SIEM | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk` |
+| [7](https://github.com/Jalenbro/Jalenbro/tree/main/IDS%26SIEM%20LABS) - SIEM Tool| `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk` |
 | [8](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/8%20-%20Automation%20with%20Python) - Automation with Python | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`| 
 
 
