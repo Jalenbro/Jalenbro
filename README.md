@@ -15,7 +15,7 @@ I am very passionate about using my abilities to serve in a Security Analyst
 | Projects | Skills/Knowledge Gained | 
 | :--- |:---:|
 | [1](https://github.com/Jalenbro/Jalenbro/tree/main/Phishing%20Labs) - Phishing Analysis | `Pattern Recognition`, `Email Header Analysis`, `Network Traffic Monitoring`, `Awareness of Social Engineering Tactics`, `Use of Security Tools`, `Scripting` |
-| [2](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/2%20-%20Network%20Security) - Linux Systems | `Linux`, `Bash` | 
+| [2](https://github.com/Jalenbro/Jalenbro/tree/main/Linux%20Labs) - Linux Systems | `Linux`, `Bash` | 
 | [3](https://github.com/Jalenbro/Jalenbro/tree/main/SQL%20Labs) -  SQL Database | `Command-line Interface`, `SQL` | 
 | [4](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/4%20-%20Assets%20%26%20Threats%20%26%20Vulnerabilities) - Assets, Threats, & Vulnerabilities | `Authentication`, ` Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis`|
 | [5](https://github.com/Jalenbro/Jalenbro/tree/main/IDS%26IPS) - IDS & IPS| `Incident Lifecycle`, `Incident Journal` |
