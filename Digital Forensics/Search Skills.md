@@ -1,10 +1,10 @@
-Task 1 Introduction
+## Task 1 Introduction
 
 Check how many results you get when searching for learn hacking. At the time of writing, we got 1.5 billion results when searching on Google.
 
 No answer needed
 
-Task 2 Evaluation of Search Results
+## Task 2 Evaluation of Search Results
 
 What do you call a cryptographic method or product considered bogus or fraudulent?
 
@@ -14,7 +14,7 @@ What is the name of the command replacing netstat in Linux systems?
 
 ss
 
-Task 3 Search Engines
+## Task 3 Search Engines
 
 How would you limit your Google search to PDF files containing the terms cyber warfare report?
 
@@ -24,7 +24,7 @@ What phrase does the Linux command ss stand for?
 
 socket statistics
 
-Task 4 Specialized Search Engines
+## Task 4 Specialized Search Engines
 
 What is the top country with lighttpd servers?
 
@@ -34,13 +34,13 @@ What does BitDefenderFalx detect the file with the hash 2de70ca737c1f4602517c555
 
 Android.Riskware.Agent.LHH
 
-Task 5 Vulnerabilities and Exploits
+## Task 5 Vulnerabilities and Exploits
 
 What utility does CVE-2024–3094 refer to?
 
 xz
 
-Task 6 Technical Documentation
+## Task 6 Technical Documentation
 
 What does the Linux command cat stand for?
 
@@ -50,7 +50,7 @@ What is the netstat parameter in MS Windows that displays the executable associa
 
 -b
 
-Task 7 Social Media
+## Task 7 Social Media
 
 You are hired to evaluate the security of a particular company. What is a popular social media website you would use to learn about the technical background of one of their employees?
 
